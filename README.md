@@ -1,2 +1,2 @@
-# kaggle-zillow
+# Kaggle
 Zillow Kaggle Challenge
